@@ -1,0 +1,357 @@
+#EXTM3U 
+#EXTINF:-1, DSTV AF WATCH MORE ON OMOHAK TV APP
+ 
+#EXTINF:0,|DSTV|ESPN 1 SPORTS HD DSTV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53692.ts
+#EXTINF:0,|DSTV|ESPN SPORTS 2 PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53693.ts
+#EXTINF:0,|DSTV|SUPERSPORTS ACTION PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.ts
+#EXTINF:0,|ARAB|SUPERSPORTS FOOTBALL PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52874.ts
+#EXTINF:0,|UK|SUPERSPORTS EPL UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.ts
+#EXTINF:0,|ARAB|SUPERS LA LIGA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.ts
+#EXTINF:0,|ARAB|SUPERSPORTS RUGBY  UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52296.ts
+#EXTINF:0,|ARAB|SUPERSPORTS GARADSTAND UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.ts
+#EXTINF:0,|ARAB|MOTOR SPORTS TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52295.ts
+#EXTINF:0,|ARAB|SUPERSPORTS TENNIS HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52297.ts
+#EXTINF:0,|DSTV|SUPERSPORTS GOLF PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52280.ts
+#EXTINF:0,|ARAB|SUPERSPORTS PSL PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52291.ts
+#EXTINF:0,|UK|SUPERSPORTS BLITZ UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.ts
+#EXTINF:0,|ARAB|SUPERSPORTS MAXIMO 1 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52301.ts
+#EXTINF:0,|ARAB|SUPERSPORTS VARIETY 1 UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52871.ts
+#EXTINF:0,|ARAB|SUPERSPORTS VARIETY 2 UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52872.ts
+#EXTINF:0,|ARAB|SUPERSPORTS VAR 3 TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52292.ts
+#EXTINF:0,|ARAB|SUPERSPORTS VARIETY 4 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52873.ts
+#EXTINF:0,|ARAB|GINXSPORTS HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53761.ts
+#EXTINF:0,|DSTV|SUPERSPORTS PLAY HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53022.ts
+#EXTINF:0,|DSTV|SABC 1 PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53694.ts
+#EXTINF:0,|UK|SABC 2 PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53695.ts
+#EXTINF:0,|D|SABC 3 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53696.ts
+#EXTINF:0,|DSTV|SABC NEWS HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53697.ts
+#EXTINF:0,|DSTV|M-NET 1 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53698.ts
+#EXTINF:0,|ARAB|M-NET +1 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53699.ts
+#EXTINF:0,|ARAB|M-NET MOVIES 1 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53700.ts
+#EXTINF:0,|ARAB|M-NET MOVIES 2 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53701.ts
+#EXTINF:0,|ARABM-NET M0VIES 3 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53702.ts
+#EXTINF:0,|ARAB| M-NET MOVIES 4 HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53703.ts
+#EXTINF:0,|ARAB|1MAGIC PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53705.ts
+#EXTINF:0,|ARAB|AFRICA MAGIC FAMILY PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53706.ts
+#EXTINF:0,|UK| ARAB|AFRICA MAGIC EPIC PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53707.ts
+#EXTINF:0,|ARAB|AFRICA MAGIC URBAN HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53708.ts
+#EXTINF:0,|ARAB|AFRICA MAGIC YORUBA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53711.ts
+#EXTINF:0,|ARAB|AFRICA MAGIC IGBO HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53709.ts
+#EXTINF:0,|ARAB|e.TV HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53712.ts
+#EXTINF:0,|DSTV e.TV EXTRA UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53713.ts
+#EXTINF:0,|ARAB|AFRICA eMOVIES EXTRA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53715.ts
+#EXTINF:0,|ARAB|eMOVIES HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53714.ts
+#EXTINF:0,|ARAB|eNCA  HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53716.ts
+#EXTINF:0,|ARAB|eTOONZ HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53717.ts
+#EXTINF:0,|ARAB|KYKNET UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53718.ts
+#EXTINF:0,|ARAB|KYKNET NOU PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53719.ts
+#EXTINF:0,|ARAB|KYKNET & KIE PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53720.ts
+#EXTINF:0,|UK|MZANSI BIOSKOP PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53721.ts
+#EXTINF:0,|ARAB|MZANSI MAGIC HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53722.ts
+#EXTINF:0,|ARAB|MZANSI MAGIC HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53723.ts
+#EXTINF:0,|ARAB|MZANSI WETHU HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53724.ts
+#EXTINF:0,|ARAB|FOX HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53725.ts
+#EXTINF:0,|ARAB|BBC BRIT HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53726.ts
+#EXTINF:0,|ARAB|BBC EARTH UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53727.ts
+#EXTINF:0,|ARAB|BBC LIFESTYLE HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53728.ts
+#EXTINF:0,|ARAB|JIMJAM HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53729.ts
+#EXTINF:0,|ARAB|NICKELODEON PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53730.ts
+#EXTINF:0,|ARAB|NICK.JR UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53731.ts
+#EXTINF:0,|UK|DISNEY CHANNEL PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53732.ts
+#EXTINF:0,|ARAB|DISNEY JUNIOR HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53733.ts
+#EXTINF:0,|ARAB|NICKTOON HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53734.ts
+#EXTINF:0,|ARAB|PBS KIDS HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53735.ts
+#EXTINF:0,|ARAB| BOOMERANG HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53736.ts
+#EXTINF:0,|ARAB|CARTOON NETWORK UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53737.ts
+#EXTINF:0,|ARAB|CBEEBIES UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53738.ts
+#EXTINF:0,|ARAB|BAYTV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53739.ts
+#EXTINF:0,|ARAB|COMEDY CENTRAL HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53740.ts
+#EXTINF:0,|ARAB|NAT-GEO UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53741.ts
+#EXTINF:0,|ARAB|NAT-GEO WILD PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53742.ts
+#EXTINF:0,|UK|INVESTIGATION DISCOVERY PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53744.ts
+#EXTINF:0,|ARAB|HISTORY UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53745.ts
+#EXTINF:0,|ARAB|DISCOVERY FAMILY HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53746.ts
+#EXTINF:0,|ARAB|DISCOVERY CHANNEL HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53747.ts
+#EXTINF:0,|ARAB| TRAVEL UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53748.ts
+#EXTINF:0,|ARAB|CAPE TOWN UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53749.ts
+#EXTINF:0,|ARAB|REALITY HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53750.ts
+#EXTINF:0,|ARAB|CBS JUSTICE HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53751.ts
+#EXTINF:0,|ARAB|CHANNEL O HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53752.ts
+#EXTINF:0,|ARAB|CNBC AFRICA PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53753.ts
+#EXTINF:0,|ARAB|DAYSTAY PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53754.ts
+#EXTINF:0,|UK|SPICE TV FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53755.ts
+#EXTINF:0,|ARAB|DUMISA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53756.ts
+#EXTINF:0,|ARAB|EMMANUEL TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53757.ts
+#EXTINF:0,|ARAB|EVA UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53758.ts
+#EXTINF:0,|ARAB|FASHION TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53759.ts
+#EXTINF:0,|ARAB| GAUTV HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53760.ts
+#EXTINF:0,|ARAB|GINXSPORTS HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53761.ts
+#EXTINF:0,|ARAB|HGTV HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53762.ts
+#EXTINF:0,|ARAB|ITV NETWORK UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53763.ts
+#EXTINF:0,|ARAB|STAR LIFE PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53764.ts
+#EXTINF:0,|UK|ZEE WORLD PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53765.ts
+#EXTINF:0,|MOJA LOVE UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53766.ts
+#EXTINF:0,|ARAB|MTV HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53767.ts
+#EXTINF:0,|ARAB|MTV MUSIC HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53768.ts
+#EXTINF:0,|ARAB MTV BASE UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53769.ts
+#EXTINF:0,|ARAB|NEWSROOM AFRIKA UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53770.ts
+#EXTINF:0,|ARAB|WEATHER HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53771.ts
+#EXTINF:0,|ARAB|ROK HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53772.ts
+#EXTINF:0,|ARAB|SOUND CITY UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53773.ts
+#EXTINF:0,|ARAB|TELLY TRACK FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53774.ts
+#EXTINF:0,|ARAB|THE HOME CHANNEL FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53775.ts
+#EXTINF:0,|UK| TV MAIL FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53776.ts
+#EXTINF:0,|ARAB|VIA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53777.ts
+#EXTINF:0,|ARAB|WWE SUPERSLAM TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53778.ts
+#EXTINF:0,|ARAB|ONE GOSPEL UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53779.ts
+#EXTINF:0,|ARAB|SOWETO TV UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53780.ts
+#EXTINF:0,|ARAB| STUDIO UNIVERSAL UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53781.ts
+#EXTINF:0,|ARAB|UNIVERSALTV  UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53782.ts
+#EXTINF:0,|ARAB|E ENTERTAINMENT  UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53783.ts
+#EXTINF:0,|ARAB|SUNDANCE UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53784.ts
+#EXTINF:0,|ARAB|BET PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53785.ts
+#EXTINF:0,|UK|LIFETIME PREMIUM FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53786.ts
+#EXTINF:0,|ARAB|FOOD NETWORK UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53787.ts
+#EXTINF:0,|ARAB|TBN AFRICA HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53788.ts
+#EXTINF:0,|ARAB|TLC HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53789.ts
+#EXTINF:0,|ARAB| TNT AFRICA UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53790.ts
+#EXTINF:0,|ARAB|TSHWANE UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53791.ts
+#EXTINF:0,|ARAB|SKY NEW UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53793.ts
+#EXTINF:0,|ARAB|BUSINESS DAY HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53794.ts
+#EXTINF:0,|ARAB|1KZN HD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53803.ts
